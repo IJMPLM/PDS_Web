@@ -1,1 +1,4 @@
 /target/
+#node and modules
+/node/
+/node_modules/
